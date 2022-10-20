@@ -22,8 +22,8 @@ Stopwatch Website helps you to start the timer, stop it and you can also reset i
 #
 To use Stopwatch or to see website. Please click on the deployed link below.
 
-[Calculator](https://calculatorprojectapp.netlify.app/)
+[STOPWATCH](https://stopwatchwebsite.netlify.app/)
 <br>
 <br>
-![Claculator Website Image](./cal.png)
+![STOPWATCH Website Image](./stopwatch.png)
 
