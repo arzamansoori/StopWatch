@@ -11,8 +11,6 @@ function addValue(){
     element.innerHTML = count++;
 }
 
-
-
 //starting the countdown
 function setValue(){
     stopValue = setInterval(addValue,500);
